@@ -1,0 +1,1 @@
+get-computer -computername jan
